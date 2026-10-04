@@ -1,0 +1,12 @@
+diff --git a/scripts/__pycache__/add.cpython-312.pyc b/scripts/__pycache__/add.cpython-312.pyc
+new file mode 100644
+index 0000000..5220f67
+Binary files /dev/null and b/scripts/__pycache__/add.cpython-312.pyc differ
+diff --git a/scripts/add.py b/scripts/add.py
+index 12ee743..4693ad3 100644
+--- a/scripts/add.py
++++ b/scripts/add.py
+@@ -1,2 +1,2 @@
+ def add(a, b):
+-    return a - b
++    return a + b
